@@ -53,7 +53,6 @@ namespace Assignment2_n01519420.Controllers
             {
                 System.Environment.Exit(0);
             }
-            
             return count;
         }
 

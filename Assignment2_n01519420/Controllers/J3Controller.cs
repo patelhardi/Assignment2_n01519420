@@ -46,8 +46,7 @@ namespace Assignment2_n01519420.Controllers
                     else if (value4.Contains(value))
                     {
                         count += 4;
-                    }
-                    
+                    } 
                 }
             }
             else
